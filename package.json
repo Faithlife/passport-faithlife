@@ -1,0 +1,28 @@
+{
+  "name": "passport-faithlife",
+  "version": "0.1.0",
+  "description": "Faithlife authentication strategy for Passport and Node.js.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faithlife/passport-faithlife.git"
+  },
+  "keywords": [
+    "passport",
+    "faithlife",
+    "auth",
+    "oauth"
+  ],
+  "author": "Michael Schoonmaker <michael.r.schoonmaker@gmail.com> (http://www.schoonology.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faithlife/passport-faithlife/issues"
+  },
+  "homepage": "https://github.com/Faithlife/passport-faithlife#readme",
+  "dependencies": {
+    "passport-oauth1": "~1.0.1"
+  }
+}
